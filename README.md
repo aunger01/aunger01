@@ -4,7 +4,7 @@
   </a>
 </div>
 
-![]([https://raw.githubusercontent.com/javadog-net/javadog-net/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/aunger01/aunger01/output/github-contribution-grid-snake-dark.svg))
+![](https://raw.githubusercontent.com/aunger01/aunger01/output/github-contribution-grid-snake-dark.svg)
 
 - 👋 Hi, I’m @aunger01
 - 👀 I’m interested in : Beauty
