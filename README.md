@@ -16,7 +16,7 @@
 
 | Aunger | 个人地址 |
 | :----:| :----: | 
-| 个人博客 | [https://aunger.eu.org](https://10000101.xyz) | 
+| 个人博客 | [https://10000101.xyz](https://10000101.xyz) | 
 | 公众号 | [隱無邪]([https://mp.weixin.qq.com/s/_vgnXoQ8FSobD3OfRAf5gw](https://mp.weixin.qq.com/s/uAw3TORc_gvPpBwQxb1vpg)) | 
 | gitee|[https://gitee.com/aunger01](https://gitee.com/aunger01)  | 
 | GitHub|[https://github.com/aunger01](https://github.com/aunger01)| 
