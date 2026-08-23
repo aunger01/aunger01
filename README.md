@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://aunger.eu.org">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=024EF7&width=435&lines=纵有疾风起，人生不言弃！&center=true&size=27" alt="Typing SVG">
+  <a href="[https://git.io/typing-svg](https://10000101.xyz/)">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E7%BA%B5%E6%9C%89%E7%96%BE%E9%A3%8E%E8%B5%B7%EF%BC%8C%E4%BA%BA%E7%94%9F%E4%B8%8D%E8%A8%80%E5%BC%83" alt="Typing SVG" />
   </a>
 </div>
 
